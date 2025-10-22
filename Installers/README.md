@@ -1,5 +1,5 @@
-## [Installers for Standalone Apps](https://zenodo.org/records/17413976) are in Zenodo
-The files are too large to upload here. You can access the installer by following this [link](https://zenodo.org/records/17413976)
+## Installers for Standalone Apps are in Zenodo
+The files are too large to upload here. You can access ** the Windows OS installer ** by following this [link](https://zenodo.org/records/17413976)
  
 These apps **do not require**  a MATLAB license (only the free MATLAB Runtime, which is already included in the installer package)
 

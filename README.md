@@ -10,5 +10,6 @@ This FUNMAP apps are covered under the Nanyang Technological University - NTUITI
 If you find any bugs or errors in the apps, please contact [rf761@bath.ac.uk](mailto:rf761@bath.ac.uk). Thank you!
 
 ## Acknowledgments
-We thank Shi et al. (2012), the creators and developers of FUNWAVE-TVD version 3.6, for making its source code, examples, and detailed instructions publicly available. All the files used for studying FUNWAVE-TVD and creating the FUNMAP apps can be found at https://fengyanshi.github.io/build/html/index.html. The FUNWAVE-TVD Google community is also a reliable source for resolving issues and can be accessed at: [https://groups.google.com/g/funwave-tvd].
+We thank Shi et al. (2012), the creators and developers of FUNWAVE-TVD version 3.6, for making its source code, examples, and detailed instructions publicly available. All the files used for studying FUNWAVE-TVD and creating the FUNMAP apps can be found at https://fengyanshi.github.io/build/html/index.html. The FUNWAVE-TVD Google community is also a reliable source for resolving issues and can be accessed at: https://groups.google.com/g/funwave-tvd.
+
 

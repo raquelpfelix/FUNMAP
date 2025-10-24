@@ -1,5 +1,7 @@
 ## Installers for Standalone Apps are in Zenodo
-The files are too large to upload here. You can access the **Windows OS installers** by following this [link](https://zenodo.org/records/17413976)
+The files are too large to upload here. Here are the download links: 
+[**Windows OS installers**](https://zenodo.org/records/17413976)
+[**macOS Installers**](https://zenodo.org/records/17434247)
  
 These apps **do not require**  a MATLAB license (only the free MATLAB Runtime, which is already included in the installer package)
 
@@ -9,7 +11,7 @@ These apps **do not require**  a MATLAB license (only the free MATLAB Runtime, w
 3. The **FUNMAP** app will now be available in your system's application list.
 
 ## Visual Guide
-Refer to **page 6** of the included **User Manual PDF**.
+Refer to **pages 6 and 7** of the included **User Manual PDF**.
 
 ## Note
 Please cite this paper when you use the applications: Felix, R., Tan, E. H. Z., Watanabe, M., Verolino, A., Puah, J. Y., & Switzer, A. D. (2025). Funwave-based open-access mapping applications (FUNMAP) applied to Tsunami modelling from the Manila Trench to Manila Bay, Philippines. Geoscience Letters. **https://doi.org/10.1186/s40562-025-00422-5**

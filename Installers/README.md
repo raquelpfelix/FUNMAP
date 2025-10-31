@@ -1,4 +1,4 @@
-## Installers for Standalone Apps are in Zenodo
+## Installers with Standalone Apps and MATLAB Runtime are on Zenodo
 The files are too large to upload here. Here are the download links: 
 
 [**Windows OS installers**](https://zenodo.org/records/17413976)

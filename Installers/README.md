@@ -1,11 +1,18 @@
-## Installers with Standalone Apps and MATLAB Runtime are on Zenodo
-The files are too large to upload here. Here are the download links: 
+## Installer Options for Standalone Apps
+These apps **do not require**  a MATLAB license (only the free MATLAB Runtime, which is already included in the installer package)
+
+### Subfolder Installers
+These will download the MATLAB Runtime during installation.
+
+### Full Installers (with MATLAB Runtime)
+Installers that include the MATLAB Runtime are hosted on Zenodo. The files are too large to upload here. Here are the download links: 
 
 [**Windows OS installers**](https://zenodo.org/records/17413976)
 
 [**macOS Installers**](https://zenodo.org/records/17434247)
  
-These apps **do not require**  a MATLAB license (only the free MATLAB Runtime, which is already included in the installer package)
+
+
 
  ## Installation Instructions
 1. Double-click the installer file.

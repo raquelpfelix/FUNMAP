@@ -3,7 +3,7 @@ Please read the User Manual for the instructions on how to install and use the a
 
 Please cite this paper when you use the applications: Felix, R., Tan, E. H. Z., Watanabe, M., Verolino, A., Puah, J. Y., & Switzer, A. D. (2025). Funwave-based open-access mapping applications (FUNMAP) applied to Tsunami modelling from the Manila Trench to Manila Bay, Philippines. Geoscience Letters. [**https://doi.org/10.1186/s40562-025-00422-5**]
 
-Short Demo Video can be found here:[http://bit.ly/3QL1JfC](http://bit.ly/3QL1JfC)
+Short Demo Video can be found here: [http://bit.ly/3QL1JfC](http://bit.ly/3QL1JfC)
 
 ## Disclaimer
 This FUNMAP apps are covered under the Nanyang Technological University - NTUITIVE PTE LTD (NTUITIVE) Dual License Agreement (Non-commercial use). You may use, copy, reproduce, and distribute this Software for any non-commercial purpose, subject to the restrictions in this NTUITIVE-LA. More details regarding the dual license are provided in the document titled 'NTU Dual License.pdf,' which is included in the installation package.
